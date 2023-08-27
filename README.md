@@ -1,6 +1,6 @@
 ClickMe Game
 
-Welcome to ClickMe, a fun and engaging game built using Python and the Pygame module. Test your reflexes and hand-eye coordination by clicking on rings that appear on the screen before they disappear. Keep an eye on the timer, your remaining lives, and the number of rings you've successfully clicked!
+Welcome to ClickMe, a fun and engaging game built using Python and the Pygame module. Test your reflexes and hand-eye coordination by clicking on rings that appear on the screen before they disappear. Keep an eye on the timer, your remaining lives, and the number of rings you've successfully clicked!I have attached the exe file so that anyone can download and play the game.
 
 Requirements:
 
